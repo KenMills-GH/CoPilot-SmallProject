@@ -14,7 +14,7 @@ A simple, client-side web application for tracking monthly income and expenses w
 
 ### 🔐 Username Validation
 
-- Strict validation with regex pattern enforcement
+- Strict validation with regex pattern enforcement (for testing purposes only)
 - **Requirements:**
   - Minimum 5 characters
   - At least 1 uppercase letter
